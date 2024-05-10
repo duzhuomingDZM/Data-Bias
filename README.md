@@ -1,4 +1,4 @@
-# MR-Net
+# Data Bias
 Data Bias is the first important problem to be solved in Color Constancy
 
 You can download the Original dataset: Shi's Re-processing of Gehler's Raw Dataset
