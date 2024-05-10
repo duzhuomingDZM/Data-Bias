@@ -1,2 +1,2 @@
 # MR-Net
-A Deep Convolutional Neural Network for Color Constancy with Multi-Resolution Image
+Data Bias is the first important problem to be solved in Color Constancy
